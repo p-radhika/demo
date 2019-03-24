@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "accNo": 1, "mobile": "1234567890", balance: "1200" },
+    { "accNo": 2, "mobile": "1234567890", balance: "12200" },
+    { "accNo": 3, "mobile": "1234567890", balance: "12500" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
